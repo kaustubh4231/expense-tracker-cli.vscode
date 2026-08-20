@@ -29,7 +29,7 @@ A simple command-line Expense Tracker made with Python. I built this project whi
 ```text
 expense-tracker/
 │
-├── expense_tracker.py
+├── expense-tracker.py
 ├── expenses.txt
 └── README.md
 ```
@@ -39,7 +39,7 @@ expense-tracker/
 1. Make sure Python is installed on your computer.
 2. Clone this repository or download the project.
 3. Open the project folder in VS Code.
-4. Run `expense_tracker.py`.
+4. Run `expense-tracker.py`.
 5. Choose an option from the menu and follow the instructions.
 
 ## 🖥️ Example
